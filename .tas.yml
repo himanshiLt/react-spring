@@ -9,5 +9,4 @@ preMerge:
 postMerge:
   pattern:
     - "**/*.test.{ts,tsx}"
-configFile: jest.config.js
 version: 1.0
