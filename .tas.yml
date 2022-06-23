@@ -9,4 +9,4 @@ preMerge:
 postMerge:
   pattern:
     - "**/*.test.{ts,tsx}"
-version: 1.0
+version: 1.0.0
